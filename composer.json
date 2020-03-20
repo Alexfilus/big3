@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Big3\\": "src/"
+        }
+    },
+    "name": "aleksandrfilippenko/test_big3",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "authors": [
+        {
+            "name": "alexfilus",
+            "email": "alexfilus@gmail.com"
+        }
+    ]
+}
